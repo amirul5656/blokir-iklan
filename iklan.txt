@@ -58,5 +58,4 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 metrics1.data.hicloud.com
-0.0.0.0 metrics5.data.hicloud.com
-0.0.0.0 samsung-com.112.2o7.net
+
