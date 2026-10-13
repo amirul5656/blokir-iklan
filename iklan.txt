@@ -1,13 +1,12 @@
 # Title: Iklan
 # Description: Blokir Iklan By Amirul
-#shinigami.asia
+# shinigami.asia
+
 0.0.0.0 cdn.files-text.com
 0.0.0.0 goid.space
 0.0.0.0 linkakurat.com
 0.0.0.0 cdn.sportnanoapi.com
 0.0.0.0 7kucingqy.vip
-0.0.0.0 k6-e4e4123be8e54363900a90353991ca93.ecs.us-west-1.on.aws
-0.0.0.0 md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws
 0.0.0.0 emas5000zr.site
 0.0.0.0 qqsawersor.site
 0.0.0.0 24-sklep.pl
@@ -15,16 +14,49 @@
 0.0.0.0 bandarxlsn.site
 0.0.0.0 gacototoxy.com
 0.0.0.0 bisnis4dkr.site
-0.0.0.0 qqsawersor.site
 0.0.0.0 388heroyu.site
 0.0.0.0 kaya303percaya.site
 0.0.0.0 joglototoarc.com
-0.0.0.0 bandarxlsn.site
-0.0.0.0 img.novu.my
 0.0.0.0 olx101bv.cc
 0.0.0.0 baik777dr.site
-0.0.0.0 img.novu.my
-0.0.0.0 img.novu.my
-0.0.0.0 img.novu.my
-0.0.0.0 img.novu.my
-0.0.0.0 img.novu.my
+
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 edge.fullstory.com
+0.0.0.0 app.posthog.com
+0.0.0.0 eu.posthog.com
+0.0.0.0 us.i.posthog.com
+0.0.0.0 rudderstack.com
+0.0.0.0 snowplowanalytics.com
+0.0.0.0 fingerprintjs.com
+0.0.0.0 o0.ingest.sentry.io
+0.0.0.0 cdn.lr-ingest.com
+0.0.0.0 r.lr-ingest.com
+
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 ads.microsoft.com
+0.0.0.0 sync.kargo.com
+0.0.0.0 pangleglobal.com
+0.0.0.0 s.clarity.ms
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 ads.x.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 pixel.quora.com
+0.0.0.0 qevents.quora.com
+0.0.0.0 ads.vk.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 ads.huawei.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 api.partnerstack.com
+0.0.0.0 t.pepperjamnetwork.com
+
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 samsung-com.112.2o7.net
