@@ -21,4 +21,3 @@
 0.0.0.0 joglototoarc.com
 0.0.0.0 bandarxlsn.site
 0.0.0.0 img.novu.my
-0.0.0.0 img.novu.my
