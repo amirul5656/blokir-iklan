@@ -60,5 +60,6 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 hotjar-analytics.com
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 advertising.twitter.com
 0.0.0.0 metrics5.data.hicloud.com
 
