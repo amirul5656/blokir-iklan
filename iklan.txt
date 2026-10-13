@@ -1,0 +1,24 @@
+# Title: Iklan
+# Description: Blokir Iklan By Amirul
+#shinigami.asia
+0.0.0.0 cdn.files-text.com
+0.0.0.0 goid.space
+0.0.0.0 linkakurat.com
+0.0.0.0 cdn.sportnanoapi.com
+0.0.0.0 7kucingqy.vip
+0.0.0.0 k6-e4e4123be8e54363900a90353991ca93.ecs.us-west-1.on.aws
+0.0.0.0 md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws
+0.0.0.0 emas5000zr.site
+0.0.0.0 qqsawersor.site
+0.0.0.0 24-sklep.pl
+0.0.0.0 enakslotyu.site
+0.0.0.0 bandarxlsn.site
+0.0.0.0 gacototoxy.com
+0.0.0.0 bisnis4dkr.site
+0.0.0.0 qqsawersor.site
+0.0.0.0 388heroyu.site
+0.0.0.0 kaya303percaya.site
+0.0.0.0 joglototoarc.com
+0.0.0.0 bandarxlsn.site
+0.0.0.0 img.novu.my
+0.0.0.0 img.novu.my
