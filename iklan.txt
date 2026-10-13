@@ -19,7 +19,6 @@
 0.0.0.0 joglototoarc.com
 0.0.0.0 olx101bv.cc
 0.0.0.0 baik777dr.site
-
 0.0.0.0 api.mouseflow.com
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 claritybt.freshmarketer.com
@@ -35,7 +34,6 @@
 0.0.0.0 o0.ingest.sentry.io
 0.0.0.0 cdn.lr-ingest.com
 0.0.0.0 r.lr-ingest.com
-
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 sync.kargo.com
@@ -52,10 +50,15 @@
 0.0.0.0 ngfts.lge.com
 0.0.0.0 api.partnerstack.com
 0.0.0.0 t.pepperjamnetwork.com
-
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 hotjar-analytics.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 metrics5.data.hicloud.com
 
